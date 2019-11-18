@@ -17,7 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://blog.kir.ovh # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kirek007
 github_username: kirek007
-theme: minima
+theme: jekyll-theme-hacker
 # Build settings
 markdown: kramdown
 
